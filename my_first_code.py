@@ -4,7 +4,7 @@ print("Hello", end=" epic ")
 print("World")
 print("Foot" + "ball")
 
-name = "Larry"
+name = "John"
 age = 23
 trait = "funny"
 print(f"{name} is {age} years old \n{name} is {trait}")
